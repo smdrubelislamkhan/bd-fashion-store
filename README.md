@@ -8,7 +8,7 @@ This project showcases a basic fashion store homepage with attractive styling an
 
 ## 🌐 Live Demo
 
-> (Add your GitHub Pages link here once you publish it)
+> ([Add your GitHub Pages link here once you publish it](https://smdrubelislamkhan.github.io/bd-fashion-store/))
 
 ## 📁 Project Structure
 
